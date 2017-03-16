@@ -134,7 +134,7 @@
 				TargetAttributes = {
 					D12BB4E41D8ED54E00E7B8F8 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = YPV49M8592;
+						DevelopmentTeam = 7X2AVVPFCX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -298,10 +298,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = YPV49M8592;
+				DEVELOPMENT_TEAM = 7X2AVVPFCX;
 				INFOPLIST_FILE = fastlane_xcode8/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.everettjf.fastlanexc8;
+				PRODUCT_BUNDLE_IDENTIFIER = com.linekong.apt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -311,10 +311,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = YPV49M8592;
+				DEVELOPMENT_TEAM = 7X2AVVPFCX;
 				INFOPLIST_FILE = fastlane_xcode8/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.everettjf.fastlanexc8;
+				PRODUCT_BUNDLE_IDENTIFIER = com.linekong.apt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
